@@ -1,0 +1,9 @@
+Computer Networking
+A Top-Down Approach
+Sixth edition
+James F.Kurose - Keith W. Ross
+
+-> Different links can transmit date at different rates, with the transmisson rate of a link measured in bits/second.
+-> End systems access the Internet through Internet Service Providers(ISPs)
+-> The Internet Protocol(IP) specifies the format of the packets that are sent and received among routers and end systems
+-> Application - Transport - Network - Link - Physical

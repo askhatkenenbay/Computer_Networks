@@ -1,0 +1,15 @@
+->A process sends messages into, and receives messages from, the network through
+ a software interface called a socket.
+->A socket is the interface between the application layer and the transport layer within a host.
+->IP address is a 32-bit quantity
+->TCP(transmisson control protocol): connection-oriented service and a reliable data transfer service
+->SSL (Secure Socket Layer)
+->UDP(User Datagram Protocol) is a no-frills, lightweight transport protocol, providing minimal services.
+->UDP is connectionless, unreliable data transfer, no congestion-control mechanism
+-> Application-layer protocol defines how an application's processes, running on different end systems,
+pass messages to each other.
+->Because an HTTP server maintains no information about the clients, HTTP is said to be stateless protocol
+-> HTTP persistent vs non-persistent
+->RTT (round-trip time) time it takes for a small packet to travel from client to server and then back to the client
+->FTP(File transer Protocol)
+->
